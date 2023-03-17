@@ -5,7 +5,8 @@ To run the estimates referenced in the thesis, run the file
 
   Rumin_Estimates_Diss.py
 
-using the command: 
-
+using the commands: 
+  
+  cd Rumin_Estimates_Diss
   python Rumin_Estimates_Diss.py
  
